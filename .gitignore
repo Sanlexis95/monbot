@@ -1,0 +1,12 @@
+# Ne jamais envoyer le token dans GitHub !
+.env
+
+# Node dependencies
+node_modules/
+
+# Fichiers temporaires
+*.log
+
+# Fichiers Railway / cache
+.cache/
+
